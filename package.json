@@ -1,6 +1,6 @@
 {
   "name": "ts-sql-codegen",
-  "version": "3.21.0",
+  "version": "3.21.1",
   "description": "Generates ts-sql-query table mappings from tbls schema output",
   "main": "dist/index.js",
   "bin": "dist/cli.js",
@@ -54,7 +54,7 @@
     "typescript": "^5.3.3"
   },
   "peerDependencies": {
-    "ts-sql-query": "^1.29.0"
+    "ts-sql-query": "^1.59.0"
   },
   "dependencies": {
     "fs-extra": "^11.2.0",
